@@ -17,3 +17,11 @@ class Game
   end
 
 end
+
+
+
+puts "Welcome to Math Game! It's player1's turn"
+
+puts 
+
+answer = $stdin.gets.chomp

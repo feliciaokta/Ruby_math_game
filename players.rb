@@ -10,4 +10,8 @@ class Players
 
 end
 
-# each has 2 keys: score and lives remaining
+score1 = player1.new
+lives1 = player1.new
+
+score2 = player2.new
+lives2 = player2.new
