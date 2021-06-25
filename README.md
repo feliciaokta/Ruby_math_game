@@ -8,7 +8,6 @@ The game ends when one player loses all their lives. The game then announces who
 
 - Game
   - has_started: boolean
-  - has_ended: boolean
   - current_player: (whose turn is it?) player1 || player2
   - winner: player1 || player2
 
